@@ -1,0 +1,4 @@
+node_modules/
+typigs/globals/
+*.js
+*.js.map
